@@ -3,13 +3,9 @@
 
 - 🔭 I’m currently working on **building my portfolio and learn new things**
 
-- 🌱 I’m currently learning **react, nodejs**
-
 - 👯 I’m looking to collaborate on [Facial Recognition Api](https://github.com/ageitgey/face_recognition)
 
-- 💬 Ask me about **java, data structure**
-
-- 📫 How to reach me **by linkedin**
+- 💬 Ask me about **anything!**. Love to chat and knowing new people
 
 - ⚡ Fun fact **I play Ukulele and love outside activities.**
 
@@ -30,6 +26,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
 <h4>Currently Learning</h4>
@@ -47,7 +44,6 @@
 <h4>Know a little bit of</h4>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
 <br>
